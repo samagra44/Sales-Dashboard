@@ -58,3 +58,9 @@ streamlit run app.py
 ```
 
 **Application is running on ```http://localhost:8501/```** .
+
+
+![Sales](https://github.com/samagra44/Sales-Dashboard/assets/77968722/5a1b98e0-bb76-4477-88a5-67bbe7d319e4)
+
+
+
